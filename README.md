@@ -13,6 +13,8 @@ The recommendation system is built with the following components:
 ## Note: for execution of ipynb file unzip tmdb_5000_credits.zip
 The ML code for the recommendation system is in the Movie-Recommendation-System.ipynb file.
 
+Store the use Ml model as Pickel file to connect with website.
+
 ### Web Application:
 The web interface for the recommendation system is built using Streamlit.
 
