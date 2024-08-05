@@ -10,6 +10,7 @@ The recommendation system is built with the following components:
 # tmdb_5000_credits.csv - Contains information about movie credits (cast and crew).
 
 ### Machine Learning Code:
+## Note: for execution of ipynb file unzip tmdb_5000_credits.zip
 The ML code for the recommendation system is in the Movie-Recommendation-System.ipynb file.
 
 ### Web Application:
